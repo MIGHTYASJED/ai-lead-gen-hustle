@@ -1,0 +1,10 @@
+playwright
+playwright-stealth
+google-generativeai
+groq
+
+pydantic
+tqdm
+python-dotenv
+requests
+beautifulsoup4
