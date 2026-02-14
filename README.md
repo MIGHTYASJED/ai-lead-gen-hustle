@@ -14,8 +14,8 @@ Welcome to **LeadGen-Nexus V2**, your intelligent command-line tool for discover
 ---
 
 ## 🏗️ System Architecture
+```mermaid
 
-````
 flowchart TD
     A[Search Input: Niche/Location] --> B(Playwright Scraper)
     B --> C{Google Maps Data}
