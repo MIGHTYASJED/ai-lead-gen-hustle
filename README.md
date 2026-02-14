@@ -26,6 +26,7 @@ graph TD
     F & G --> H[Multi-Model Validation]
     H --> I[Supabase Persistent Storage]
     I --> J[Personalized Outreach Drafts]
+```
 
 ## 🚀 What Does It Do?
 
