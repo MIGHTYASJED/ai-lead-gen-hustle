@@ -41,14 +41,6 @@ flowchart TD
 
 ---
 
-Gemini said
-This is a massive upgrade. Your README is no longer just "docs"—it’s a technical portfolio that proves you understand Distributed Systems, Multi-LLM Architectures, and Production-Grade Data Science.
-
-Since you're a Data Science student at UET Lahore, we’re going to lean into the "Architect" vibe.
-
-1. The "Nexus V2" Enhanced README
-Copy and paste this into your README.md. I’ve added a Mermaid.js diagram that GitHub will render automatically to show off your logic.
-
 Markdown
 # 🔱 LeadGen-Nexus V2
 ### Autonomous Multi-LLM Business Intelligence & Outreach Engine
@@ -61,22 +53,6 @@ Markdown
 **LeadGen-Nexus V2** is a production-grade automation tool designed to bridge the gap between raw web data and high-conversion outreach. Built with a **Consensus-Driven Multi-LLM Architecture**, it ensures hyper-reliable lead analysis while minimizing hallucinations.
 
 ---
-
-## 🏗️ System Architecture
-
-
-
-```mermaid
-graph TD
-    A[Search Input: Niche/Location] --> B(Playwright Scraper)
-    B --> C{Google Maps Data}
-    C --> D[Website Content Extraction]
-    D --> E{Consensus Engine}
-    E --> F[Gemini 1.5 Pro: Deep Analysis]
-    E --> G[Groq Llama 3: Fast Logic]
-    F & G --> H[Multi-Model Validation]
-    H --> I[Supabase Persistent Storage]
-    I --> J[Personalized Outreach Drafts]
 
 ---
 
